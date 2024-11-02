@@ -22,7 +22,8 @@
 // #define NO_ACTION_LAYER
 // #define NO_ACTION_TAPPING
 // #define NO_ACTION_ONESHOT
-
+//
+#define TAPPING_TERM 150
 #define PERMISSIVE_HOLD
 
 #define ACHORDION_STREAK
